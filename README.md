@@ -19,7 +19,7 @@
 - Для верификации требуется подтверждение по электронной почте через Gmail.
 
 # Установка
-- Клонируйте репозиторий: git clone https://github.com/Axireerrer/API_PROMO.git
+- Клонируйте репозиторий: git clone https://github.com/Axireerrer/API_PROMO/tree/master
 - Создайте виртуальное окружение и активируйте его: python -m venv venv , ./venv/Scripts/activate
 
 # Установите зависимости: pip install -r requirements.txt
