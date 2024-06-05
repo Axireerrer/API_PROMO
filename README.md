@@ -26,10 +26,10 @@
 # Настройте переменные окружения:
 - Создайте файл .env в корневом каталоге и добавьте в него следующие переменные:
 - .env:
-   - SECRET_KEY = 'django-insecure-4c2z@j(x1ta$pia51ja_nb1t++bor#crzru=^w(awzj%62&yxu'
-   - DB_NAME = adv_db
-   - DB_USER = adv_user
-   - DB_PASSWORD = pass
+   - SECRET_KEY = 'django-key'
+   - DB_NAME = database
+   - DB_USER = user
+   - DB_PASSWORD = password
    - DB_PORT = 5432
    - DB_HOST = localhost
    - EMAIL_HOST = 'smtp.gmail'
